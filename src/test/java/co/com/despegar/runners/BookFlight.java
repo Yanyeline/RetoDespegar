@@ -1,4 +1,4 @@
-package co.com.despegar.runers;
+package co.com.despegar.runners;
 
 import cucumber.api.CucumberOptions;
 import cucumber.api.SnippetType;
